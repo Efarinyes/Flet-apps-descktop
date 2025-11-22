@@ -26,7 +26,7 @@ class AppLayout(ft.Row):
                     [
                         ft.Container(
                             ft.Text(
-                                value="Els teus taulers",
+                                value="Tots els taulers",
                                 theme_style=ft.TextThemeStyle.HEADLINE_MEDIUM,
                             ),
                             expand=True,
